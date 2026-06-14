@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+
+.main-container {
+    background-color: beige;
+    padding: 20px 30%;
+    margin: 50px 50px;
+}
+.home-list {
+    padding: 0px 50px;
+    font-size: 30px;
+    text-decoration: none;
+}
+.main-title {
+    color: blueviolet;
+}
+.home-list li {
+    padding: 0px 10px;
+}
+.recipe-title {
+    color: blueviolet;
+    padding: 50px;
+    margin: 20px 10px;
+}
+h2, h3, #home-link {
+    color: blueviolet;
+    margin: 5px 10px;
+    background-color: burlywood;
+    width: 52.2%;
+    padding: 20px;
+    border-radius: 20px;
+}
+p, .steps, .ingredients {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: cyan;
+    background-color: brown;
+    width: 50%;
+    border-radius: 20px;
+    margin: 0px 50px;
+}
+a#home-link {
+    display: inline-block;
+    font-size: larger;
+}
+footer {
+    font-size: 25px;
+}
+
